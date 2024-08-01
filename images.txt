@@ -5,6 +5,6 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 
-postgres
-redis
+postgres:11.1-alpine
+redis:6.2.2
 photonixapp/photonix
