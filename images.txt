@@ -9,3 +9,4 @@ postgres:11.1-alpine
 redis:6.2.2
 photonixapp/photonix
 resilio/sync
+syncthing/syncthing
