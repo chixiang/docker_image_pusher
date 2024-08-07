@@ -10,3 +10,4 @@ redis:6.2.2
 photonixapp/photonix
 resilio/sync
 syncthing/syncthing
+jonnyan404/verysync
