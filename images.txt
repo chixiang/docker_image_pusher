@@ -11,3 +11,4 @@ photonixapp/photonix
 resilio/sync
 syncthing/syncthing
 jonnyan404/verysync
+likeflyme/cloudbak
