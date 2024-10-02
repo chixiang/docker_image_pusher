@@ -13,4 +13,5 @@
 #jonnyan404/verysync
 #likeflyme/cloudbak
 #dr34m/tao-sync
-jlesage/freefilesync
+#jlesage/freefilesync
+snowdreamtech/frpc
