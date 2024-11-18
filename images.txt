@@ -23,4 +23,5 @@
 #lscr.io/linuxserver/resilio-sync:arm64v8-3.0.0
 #jlesage/firefox
 #ghcr.io/heyputer/puter
-moelin/1panel
+#moelin/1panel
+halcyonazure/lsky-pro-docker
