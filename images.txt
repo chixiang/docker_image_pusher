@@ -24,4 +24,5 @@
 #jlesage/firefox
 #ghcr.io/heyputer/puter
 #moelin/1panel
-halcyonazure/lsky-pro-docker
+#halcyonazure/lsky-pro-docker
+6053537/portainer-ce
