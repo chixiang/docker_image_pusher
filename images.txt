@@ -25,4 +25,5 @@
 #ghcr.io/heyputer/puter
 #moelin/1panel
 #halcyonazure/lsky-pro-docker
-6053537/portainer-ce
+#6053537/portainer-ce
+dockurr/umbrel
